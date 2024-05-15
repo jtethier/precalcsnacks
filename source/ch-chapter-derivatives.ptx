@@ -8,8 +8,6 @@
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="sec-section-name.ptx" />
-  <xi:include href="sec-limits-alg.ptx" />
-  <xi:include href="sec-limits-infinite.ptx" />
+  <xi:include href="sec-section-defnderivative.ptx" />
 
 </chapter>

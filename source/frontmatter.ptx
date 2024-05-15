@@ -6,9 +6,9 @@
 <frontmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="frontmatter">
   <titlepage>
     <author>
-      <personname>You</personname>
-      <department>Your department</department>
-      <institution>Your institution</institution>
+      <personname>John T. Ethier</personname>
+      <department>Department of Mathematics and Statistics</department>
+      <institution>Metropolitan State University of Denver</institution>
     </author>
     <date>
       <today />
