@@ -10,58 +10,22 @@ var ptx_lunr_docs = [
   "body": "  My Website   copyright  "
 },
 {
-  "id": "sec-section-name",
+  "id": "sec-section-name.ptx",
   "level": "1",
-  "url": "sec-section-name.html",
+  "url": "sec-section-name.ptx.html",
   "type": "Section",
   "number": "1.1",
   "title": "The idea of a limit",
   "body": " The idea of a limit  words go here  "
 },
 {
-  "id": "sec-section-name",
+  "id": "sec-limits-algebra",
   "level": "1",
-  "url": "sec-section-name.html",
+  "url": "sec-limits-algebra.html",
   "type": "Section",
   "number": "1.2",
-  "title": "Limits with algebra",
-  "body": " Limits with algebra  words go here  "
-},
-{
-  "id": "sec-section-name",
-  "level": "1",
-  "url": "sec-section-name.html",
-  "type": "Section",
-  "number": "1.3",
-  "title": "Infinite Limits",
-  "body": " Infinite Limits  words go here  "
-},
-{
-  "id": "sec-section-name",
-  "level": "1",
-  "url": "sec-section-name.html",
-  "type": "Section",
-  "number": "2.1",
-  "title": "The idea of a limit",
-  "body": " The idea of a limit  words go here  "
-},
-{
-  "id": "sec-section-name",
-  "level": "1",
-  "url": "sec-section-name.html",
-  "type": "Section",
-  "number": "2.2",
-  "title": "Limits with algebra",
-  "body": " Limits with algebra  words go here  "
-},
-{
-  "id": "sec-section-name",
-  "level": "1",
-  "url": "sec-section-name.html",
-  "type": "Section",
-  "number": "2.3",
-  "title": "Infinite Limits",
-  "body": " Infinite Limits  words go here  "
+  "title": "Limits with Algebra",
+  "body": " Limits with Algebra  words  "
 },
 {
   "id": "backmatter-2",
