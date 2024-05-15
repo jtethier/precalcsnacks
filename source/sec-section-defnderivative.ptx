@@ -4,6 +4,8 @@
     <title>Definition of Derivative</title>
 
     <p> Suppose for the function <m> f(x)=x^2+2x </m> we want to find <m> f'(x)=\lim\limits_{h \to 0} \frac{f(x+h)-f(x)}{h} </m>
+    
+
     </p>
 
 </section>
