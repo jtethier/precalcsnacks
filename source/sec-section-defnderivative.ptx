@@ -3,7 +3,7 @@
 <section xml:id="sec-section-defnderivative" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Definition of Derivative</title>
 
-    <p> Suppose for the function  <m> f(x)=x^2+2x </m> we want to find <m> f'(x)=\lim\limits_{h \to 0} \frac{f(x+h)-f(x)}{h} </m>
+    <p> Suppose for the function <m> f(x)=x^2+2x </m> we want to find <m> f'(x)=\lim\limits_{h \to 0} \frac{f(x+h)-f(x)}{h} </m>
     </p>
 
 </section>
