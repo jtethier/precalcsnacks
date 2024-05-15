@@ -28,6 +28,15 @@ var ptx_lunr_docs = [
   "body": " Limits with Algebra  words  "
 },
 {
+  "id": "sec-section-defnderivative",
+  "level": "1",
+  "url": "sec-section-defnderivative.html",
+  "type": "Section",
+  "number": "2.1",
+  "title": "Definition of Derivative",
+  "body": " Definition of Derivative  Suppose for the function we want to find   "
+},
+{
   "id": "backmatter-2",
   "level": "1",
   "url": "backmatter-2.html",
