@@ -9,5 +9,5 @@
 
   <!-- include sections -->
   <xi:include href="sec-section-defnderivative.ptx" />
-
+  <xi:include href="sec-section-chat.ptx" />
 </chapter>
