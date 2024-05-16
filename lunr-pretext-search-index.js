@@ -34,16 +34,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.1",
   "title": "Definition of Derivative",
-  "body": " Definition of Derivative  Suppose for the function we want to find   Big Buck Bunny from  Video for Everybody Test Page      "
-},
-{
-  "id": "sec-section-defnderivative-2-3",
-  "level": "2",
-  "url": "sec-section-defnderivative.html#sec-section-defnderivative-2-3",
-  "type": "Figure",
-  "number": "2.1.1",
-  "title": "",
-  "body": " Big Buck Bunny from  Video for Everybody Test Page    "
+  "body": " Definition of Derivative  Suppose for the function we want to find   hi  there   a list   one  two      "
 },
 {
   "id": "sec-section-chat",
