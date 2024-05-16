@@ -34,7 +34,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.1",
   "title": "Definition of Derivative",
-  "body": " Definition of Derivative  Suppose for the function we want to find   hi  there   a list   one  two      "
+  "body": " Definition of Derivative  Suppose for the function we want to find   hi  there   a list   one  two     Video   "
 },
 {
   "id": "sec-section-chat",
