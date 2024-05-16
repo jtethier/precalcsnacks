@@ -34,7 +34,25 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.1",
   "title": "Definition of Derivative",
-  "body": " Definition of Derivative  Suppose for the function we want to find   "
+  "body": " Definition of Derivative  Suppose for the function we want to find   Big Buck Bunny from  Video for Everybody Test Page      "
+},
+{
+  "id": "sec-section-defnderivative-2-3",
+  "level": "2",
+  "url": "sec-section-defnderivative.html#sec-section-defnderivative-2-3",
+  "type": "Figure",
+  "number": "2.1.1",
+  "title": "",
+  "body": " Big Buck Bunny from  Video for Everybody Test Page    "
+},
+{
+  "id": "sec-section-chat",
+  "level": "1",
+  "url": "sec-section-chat.html",
+  "type": "Section",
+  "number": "2.2",
+  "title": "section-chat",
+  "body": " section-chat  In this section, we will discuss how to rewrite a given logarithmic expression as a sum or difference of logarithms and express all powers as factors. Consider the expression:  "
 },
 {
   "id": "backmatter-2",
