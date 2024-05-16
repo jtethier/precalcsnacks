@@ -5,16 +5,22 @@
 
     <p> Suppose for the function <m> f(x)=x^2+2x </m> we want to find <m> f'(x)=\lim\limits_{h \to 0} \frac{f(x+h)-f(x)}{h} </m>
     
+        <ul> 
+            <li> hi </li>  
+            <li> there </li>
+            <li> <p> a list </p>
+
+                <ol> 
+                <li> one </li>
+                <li> two </li>
+
+                
+                
+            </ol> </li>
+
+        </ul>
         
         
-        <figure>
-            <caption>Big Buck Bunny from
-            <url href="https://msudenver.yuja.com/V/Video?v=8623166&amp;node=37176436" visual="https://msudenver.yuja.com/V/Video?v=8623166&amp;node=37176436">
-            <q>Video for Everybody</q>
-            Test Page</url>
-            </caption>
-            <video label="big-buck-bunny-frame-one" href="https://msudenver.yuja.com/V/Video?v=8623166&amp;node=37176436" width="70%" preview="preview/big-buck-bunny-frame-one.jpg" />
-          </figure>
     </p>
 
 </section>
