@@ -34,7 +34,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.1",
   "title": "Definition of Derivative",
-  "body": " Definition of Derivative  Suppose for the function we want to find   hi  there   a list   one  two       "
+  "body": " Definition of Derivative  Suppose for the function we want to find   hi  there   a list   one  two     Video Example    Photograph taken from AIM Press Release on braille, provided as a JPEG in the project assets directory.   Photograph of a hand tracing over braille code. A cartoon thought bubble contains the quadratic formula in standard mathematical notation, matching the contents of the braille code in the photograph.    "
+},
+{
+  "id": "figure-braille",
+  "level": "2",
+  "url": "sec-section-defnderivative.html#figure-braille",
+  "type": "Figure",
+  "number": "2.1.1",
+  "title": "",
+  "body": " Photograph taken from AIM Press Release on braille, provided as a JPEG in the project assets directory.   Photograph of a hand tracing over braille code. A cartoon thought bubble contains the quadratic formula in standard mathematical notation, matching the contents of the braille code in the photograph.   "
 },
 {
   "id": "sec-section-chat",
